@@ -21,6 +21,7 @@ for line in lines:
 
 print(passCounter)
 
+#part2
 passCounter2 = 0
 for line in lines:
     pos1 = line[0:line.find("-")]
